@@ -31,6 +31,7 @@ main {
 }
 .cabecalho-link {
     color: antiquewhite;
+    text-decoration: none;
 }
 h1{
     color: antiquewhite;
