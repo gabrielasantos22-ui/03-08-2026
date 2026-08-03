@@ -36,3 +36,8 @@ main {
 h1{
     color: antiquewhite;
 }
+.footer{
+    background-color: rgb(49, 40, 28);
+    padding:15px 15px;
+    color: black;
+}
